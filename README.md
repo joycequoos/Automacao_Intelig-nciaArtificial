@@ -1,6 +1,6 @@
 # Automação x Inteligência Artificial
 
-[← Voltar](https://github.com/JosiTubaroski/DataScience/blob/main/README.md)
+[← Voltar](https://github.com/joycequoos/DataScience/blob/main/README.md)
 
 Automação e inteligência artificial são conceitos frequentemente confundidos, mas representam níveis muito diferentes de capacidade de um sistema. Este texto explica a diferença essencial entre os dois, com exemplos práticos.
 
